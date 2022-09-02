@@ -1,8 +1,0 @@
-{
-"name":"Taslim",
-"age":25,
-"country":"India",
-"voter":true,
-"address": {"addressLine2":"Line 2"},
-"language":["Hindi","Urdu","English","Arabic"]
-}
